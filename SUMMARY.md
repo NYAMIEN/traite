@@ -1,3 +1,9 @@
-# Table of content
+# Table of contents
 
-* [First Chapter](chapter1.md)
+* [Initial page](README.md)
+
+## faire
+
+* [Untitled](faire/untitled.md)
+* [Untitled](faire/untitled-1.md)
+
